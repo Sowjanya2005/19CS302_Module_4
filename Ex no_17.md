@@ -12,9 +12,14 @@ To write a C Program to compare two strings without using strcmp().
 5. Ask the user to make an input.
 6. Print out the answer.
 7. End.
-8. 
+
 ## Program:
 ```
+/*
+ C Program to compare two strings without using strcmp().
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include <stdio.h>
 int main() {
  char str1[100], str2[100];
