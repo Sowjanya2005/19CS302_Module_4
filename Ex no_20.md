@@ -14,6 +14,11 @@ To write a C program to convert the given string to lowercase without using stri
    
 ## Program:
 ```
+/*
+C program to convert the given string to lowercase without using string functions.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 #include <stdio.h>
 int main() {
  char str[100];
